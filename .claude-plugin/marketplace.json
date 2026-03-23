@@ -1,0 +1,12 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "oh-my-stalab-harness",
+  "plugins": [
+    {
+      "name": "oh-my-stalab-harness",
+      "source": ".",
+      "category": "development",
+      "tags": ["agents", "skills", "hooks", "commands", "tdd", "code-review", "security"]
+    }
+  ]
+}

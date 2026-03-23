@@ -1,0 +1,12 @@
+{
+  "name": "oh-my-stalab-harness",
+  "version": "1.0.0",
+  "description": "Claude Code development harness — 10 agents, 14 commands, 12 hooks, 13 skills, 6 rules",
+  "repository": "https://github.com/stalab-ai/oh-my-stalab-harness",
+  "agents": "agents/",
+  "commands": "commands/",
+  "hooks": "hooks/",
+  "skills": "skills/",
+  "rules": "rules/",
+  "mcpServers": "./.mcp.json"
+}
